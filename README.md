@@ -1,7 +1,6 @@
 <h1 align="center">Hey👋 I'm Deepto vau</h1>
 <h3 align="center">A Developer of BD</h3>
-
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/g6Yp98tX5GhsJkmLA
+<img align="right" alt="coding" width="400" src="https://user images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr4k3deepto&label=Profile%20views&color=0e75b6&style=flat" alt="dr4k3deepto" /> </p>
 
